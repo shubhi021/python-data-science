@@ -7,7 +7,7 @@ pensize(10)
 
 side = 4
 size = 100
-fillcolor('green')
+fillcolor('red')
 begin_fill()
 for i in range(side):
     fd(size)
