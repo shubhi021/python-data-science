@@ -1,5 +1,5 @@
 my_string = 'hello'
-print('my_string')
+print(my_string)
 
 my_string = "Hello"
 print(my_string)
