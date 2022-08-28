@@ -12,3 +12,4 @@ def draw():
 
 #outside function
 pgzrun.go()
+
